@@ -1,6 +1,11 @@
 # CommonCrypto
-CommonCrypto cocoapod
 
+CommonCrypto CocoaPod for iOS.
 
 Usage:
-pod 'CommonCrypto', :path => './CommonCrypto'
+
+```
+source 'https://github.com/Canecom/Cocoapods.git'
+
+pod 'CommonCrypto', :git => 'https://github.com/Canecom/CommonCrypto.git'
+```
