@@ -1,11 +1,9 @@
 # CommonCrypto
 
-CommonCrypto CocoaPod for iOS.
+CommonCrypto CocoaPod for macOS.
 
 Usage:
 
 ```
-source 'https://github.com/Canecom/Cocoapods.git'
-
-pod 'CommonCrypto', :git => 'https://github.com/Canecom/CommonCrypto.git'
+pod 'CommonCrypto', :git => 'https://github.com/terhechte/CommonCrypto.git'
 ```

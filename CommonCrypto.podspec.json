@@ -1,8 +1,8 @@
 {
     "name"       : "CommonCrypto",
-    "version"    : "1.0",
+    "version"    : "1.1",
     "summary"    : "CommonCrypto CocoaPod",
-    "description": "CommonCrypto CocoaPod for iOS",
+    "description": "CommonCrypto CocoaPod for macOS",
     "module_map" : "Headers/module.map",
     "homepage"   : "https://developer.apple.com/cryptography/",
     "license": {
@@ -11,7 +11,7 @@
     },
     "authors": "Tibor Bodecs <bodecs@canecom.com>",
     "platforms": {
-        "ios": "8.0"
+        "osx": "10.10"
     },
     "vendored_libraries": [
 
@@ -36,7 +36,7 @@
     ],
     "libraries": [],
     "source": {
-        "git": "https://github.com/Canecom/CommonCrypto.git",
-        "tag": "v1.0"
+        "git": "https://github.com/terhechte/CommonCrypto.git",
+        "tag": "v1.1"
     }
 }
